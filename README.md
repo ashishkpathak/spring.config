@@ -1,1 +1,1 @@
-# spring.config
+# Spring configuration
